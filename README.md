@@ -1,4 +1,4 @@
-# Responsive image gallery with React and imgix
+# Responsive image gallery with React
 
 This project is an example of how you can create a responsive image gallery with React
 
